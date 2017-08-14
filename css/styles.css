@@ -1,0 +1,53 @@
+html {
+    color: #444;
+    font: 18px 'Source Sans Pro', sans-serif;
+}
+
+body {
+    padding: 2em 2em;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    font-family: Roboto, sans-serif;
+    font-size: 26px;
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+a {
+    color: #07a;
+}
+
+.container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+.avatar img {
+    max-width: 300px;
+}
+
+@media (min-width: 768px) {
+    .container {
+        -webkit-flex-direction: row;
+        flex-direction: row;
+    }
+
+    .description {
+        padding-left: 40px;
+    }
+}
