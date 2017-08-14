@@ -1,6 +1,6 @@
-# Página web personal
+# Enlaces a mis sitios web
 
-Se trata de una User Page que se habilita creando un repositorio GitHub llamado `username`.github.io, (en este caso cristinafsanz).
+Se trata de una User Page que se habilita creando un repositorio GitHub llamado `username`.github.io, (en este caso cristinafsanz.github.io).
 
 Puedes encontrar los distintos casos posibles en el repositorio <a href="https://github.com/cristinafsanz/github-pages">Casos de uso de GitHub Pages</a>.
 
