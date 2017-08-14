@@ -41,6 +41,10 @@ a {
     max-width: 300px;
 }
 
+.credits {
+    margin-top: 40px;
+}
+
 @media (min-width: 768px) {
     .container {
         -webkit-flex-direction: row;
